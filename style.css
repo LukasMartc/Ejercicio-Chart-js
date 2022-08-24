@@ -1,0 +1,16 @@
+#div-graphic {
+    width: 650px;
+    height: 100px;
+}
+
+@media (max-width: 700px) {
+    #div-graphic {
+        width: 500px;
+    }
+}
+
+@media (max-width: 500px) {
+    #div-graphic {
+        width: 300px;
+    }
+}
